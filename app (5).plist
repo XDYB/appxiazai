@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sc70424.ipa</string>
+					<string>https://github.com/XDYB/appxiazai/raw/main/%E5%B0%8F%E6%98%8E%E8%AE%A1%E7%AE%97%E5%99%A8.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://sco_.pic_hd.jpg</string>
+					<string>https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/5e/03/6d/5e036d1c-da19-d71c-a972-9aa1bb39caec/AppIcon1-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>项目</string>
+				<string>小明计算器</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.</string>
+				<string>com.differ.xiaoming</string>
 			</dict>
 		</dict>
 	</array>
